@@ -1,0 +1,53 @@
+h2,h4 {
+  text-align: center;
+}
+
+body {
+  background-color: #bcefff;
+}
+
+h1 {
+  font-size: 2.6rem;
+  text-shadow: 2px 2px 4px #000000;
+}
+#PROFIL_img{
+  border-radius: 8px;
+  margin-top: auto;
+}
+
+#PROFIL_img{
+  width: 30%;
+}
+a:hover {
+  color: lightcyan;
+  text-decoration: underline;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+#first-Div{
+  width: 700px;
+  margin: 40px auto;
+}
+#img-Div{
+  background-color: lightgrey;
+  padding: 30px;
+  border-radius: 6px;
+  box-shadow: 0 10px 30px lightseagreen;
+}
+
+.C-Div{
+  background-color: lightgreen;
+  margin-top: 10px;
+  padding: 30px;
+  border-radius: 6px;
+  box-shadow: 0 10px 30px lightseagreen;
+  text-align: center;
+}
+.butt-link{
+  background-color: seagreen;
+  padding: 8px 8px;
+  border-radius: 5px;
+}
+.list-inline{
+  list-style: none;
+}
